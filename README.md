@@ -1,6 +1,6 @@
 <div align="center">
   <a>
-    <img src="[[images/logo.png](https://w7.pngwing.com/pngs/636/338/png-transparent-telegram-hd-logo-thumbnail.png)](https://www.freepnglogos.com/uploads/telegram-logo-png-0.png)" alt="LogoTG" width="80" height="80">
+    <img src="https://zavet31.ru/images/telegram-1.png" alt="LogoTG" width="80" height="80">
   </a>
   <h2 align="center">Telegram bot for convenient hotel search</h2>
 </div>
@@ -83,3 +83,4 @@
 * typing_extensions==4.4.0
 * urllib3==1.26.13
 * win32-setctime==1.1.0
+
